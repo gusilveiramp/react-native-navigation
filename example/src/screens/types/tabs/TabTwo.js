@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-class TabOne extends React.Component {
+class TabTwo extends React.Component {
 
   render() {
     return (
@@ -12,4 +12,4 @@ class TabOne extends React.Component {
   }
 }
 
-export default TabOne;
+export default TabTwo;
